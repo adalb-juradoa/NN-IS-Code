@@ -1,0 +1,212 @@
+---------- PARA COMPUERTA AND
+
+Ingresa vector a verificar (formato [dato1; dato2]:   [0;0]
+
+led =
+
+     0
+
+Quieres verificar alguna entrada?:   1
+
+verificador =
+
+     1
+
+Ingresa vector a verificar (formato [dato1; dato2]:   [0;1]
+
+led =
+
+     0
+
+Quieres verificar alguna entrada?:   1
+
+verificador =
+
+     1
+
+Ingresa vector a verificar (formato [dato1; dato2]:   [1;0]
+
+led =
+
+     0
+
+Quieres verificar alguna entrada?:   1
+
+verificador =
+
+     1
+
+Ingresa vector a verificar (formato [dato1; dato2]:   [1;1]
+
+led =
+
+     1
+
+
+
+---------- PARA COMPUERTA OR
+
+
+Quieres verificar alguna entrada? (1 para si, 0 para no):   1
+
+verificador =
+
+     1
+
+Ingresa vector a verificar (formato [dato1; dato2]:   [0;0]
+
+led =
+
+     0
+
+Quieres verificar alguna entrada?:   1
+
+verificador =
+
+     1
+
+Ingresa vector a verificar (formato [dato1; dato2]:   [0;1]
+
+led =
+
+     1
+
+Quieres verificar alguna entrada?:   1
+
+verificador =
+
+     1
+
+Ingresa vector a verificar (formato [dato1; dato2]:   [1;0]
+
+led =
+
+     1
+
+Quieres verificar alguna entrada?:   1
+
+verificador =
+
+     1
+
+Ingresa vector a verificar (formato [dato1; dato2]:   [1;1]
+
+led =
+
+     1
+
+
+---------- PARA COMPUERTA NAND
+
+
+
+Quieres verificar alguna entrada? (1 para si, 0 para no):   1
+
+verificador =
+
+     1
+
+Ingresa vector a verificar (formato [dato1; dato2]:   [0;0]
+
+led =
+
+     1
+
+Quieres verificar alguna entrada?:   1
+
+verificador =
+
+     1
+
+Ingresa vector a verificar (formato [dato1; dato2]:   [0;1]
+
+led =
+
+     1
+
+Quieres verificar alguna entrada?:   1
+
+verificador =
+
+     1
+
+Ingresa vector a verificar (formato [dato1; dato2]:   [1;0]
+
+led =
+
+     1
+
+Quieres verificar alguna entrada?:   1
+
+verificador =
+
+     1
+
+Ingresa vector a verificar (formato [dato1; dato2]:   [1;1]
+
+led =
+
+     0
+
+
+
+
+---------- PARA COMPUERTA NOR
+
+
+Ingresa vector a verificar (formato [dato1; dato2]:   [0;0]
+
+led =
+
+     1
+
+Quieres verificar alguna entrada?:   1
+
+verificador =
+
+     1
+
+Ingresa vector a verificar (formato [dato1; dato2]:   [0;1]
+
+led =
+
+     0
+
+Quieres verificar alguna entrada?:   1
+
+verificador =
+
+     1
+
+Ingresa vector a verificar (formato [dato1; dato2]:   [1;0]
+
+led =
+
+     0
+
+Quieres verificar alguna entrada?:   1
+
+verificador =
+
+     1
+
+Ingresa vector a verificar (formato [dato1; dato2]:   [1;1]
+
+led =
+
+     0
+
+
+---------- PARA OBTENER PESOS Y BIAS
+
+
+getwb(net)
+
+ans =
+
+    -1
+     1
+     1
+
+
+
